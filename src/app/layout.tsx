@@ -22,6 +22,8 @@ export const metadata: Metadata = {
     "React portfolio",
     "Next.js developer",
     "Sabah Hassan",
+    "sabah hassan",
+    "sabah hassan frontend",
   ],
 };
 
