@@ -13,7 +13,7 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "Sabah Hassan | Frontend Developer",
   description:
     "Sabah Hassan Ezzat | React & Next.js Frontend Developer specializing in responsive web applications. Expertise includes React.js, TypeScript, Redux Toolkit, and modern UI frameworks like Tailwind CSS and MUI. Creator of the Bone Fracture Detection web app and other interactive projects. Currently advancing skills through Frontend Bootcamps while seeking collaborative opportunities in innovative development teams.",
