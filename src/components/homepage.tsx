@@ -1,10 +1,4 @@
 import { Button } from "@/components/ui/button";
-import {
-  Card,
-  CardHeader,
-  CardTitle,
-  CardDescription,
-} from "@/components/ui/card";
 import { LuChevronRight } from "react-icons/lu";
 import { BiLogoTypescript } from "react-icons/bi";
 import { RiNextjsFill } from "react-icons/ri";
@@ -51,11 +45,11 @@ export default function HomePage() {
       <section className="container py-20 flex flex-col md:flex-row items-center gap-12">
         {/* Image */}
         <div className="flex-1 flex justify-center">
-          <img
+          {/* <img
             src="/profile.jpg" // Replace with your actual image path
             alt="Sabah Hassan"
             className="w-48 h-48 rounded-full object-cover border-4 border-indigo-500 shadow-lg"
-          />
+          /> */}
         </div>
 
         {/* Text */}
